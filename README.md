@@ -1,7 +1,7 @@
 # Algorithmic pricing in the continuous domain
 This repository includes the code for my master's thesis in Economics at the University of St. Gallen. I analyzed the behavior of two reinforcement learning pricing algorithms with continuous action spaces in game-theoretic environments. This code investigates whether the algorithms DDPG and MADDPG, which operate in the continuous action space, learn to collude. The code for the simulations is written in Python.
 
-If you are interested in a copy of my master thesis, please contact me. 
+If you are interested in a copy of my master thesis, please contact me: nicolas.greber "at" gmail.com
 
 ## Prerequisites
 * Make sure you are using Python 3.9 or higher
